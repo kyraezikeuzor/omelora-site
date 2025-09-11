@@ -39,7 +39,7 @@ export default function AboutPage() {
           Omelora aims to bridge this gap by bringing young people from all
           over, starting in southeast Nigeria, into the global conversation. To
           learn more about Omelora and support their mission, visit their
-          Instagram @omeloraproject.
+          Instagram @omeloraglobal.
         </p>
       </section>
     </section>
