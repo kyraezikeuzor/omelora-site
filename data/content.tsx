@@ -65,7 +65,7 @@ export const socials = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/omeloraproject/",
+    link: "https://www.instagram.com/omeloraglobal/",
   },
   {
     name: "LinkedIn",
